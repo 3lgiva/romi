@@ -9,18 +9,20 @@
 <body>
     <li class="highlightenlistitem">
         test lol
-    </li>
-</body>
+        </li>
+    </body>
+<div>
+    <body>
+        <button type="button">
+            step on me
+        </button>
+    </body>
+</div>
 
-<body>
-    <button type="button">
-        step on me
-    </button>
-</body>
-
-<body>
-    <button type="button">
-        no press me
-     </button>
-</body>
-
+<div>
+    <body>
+        <button type="button">
+            no press me
+         </button>
+    </body>
+</div>
