@@ -57,15 +57,15 @@ body {
 .column {
   float: right;
   padding: 50px;
-  height: 10000px;
+  height: 500px;
 }
 
 .left {
-  width: 25%;
+  width: 75%;
 }
 
 .right {
-  width: 75%;
+  width: 25%;
 }
 /* Clear floats after the columns */
 .row:after {
