@@ -23,6 +23,19 @@ body {
   width: 75%;
 }
 
+.column {
+  float: right;
+  padding: 50px;
+  height: 300px
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
