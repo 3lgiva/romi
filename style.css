@@ -5,6 +5,8 @@ body {
   }
 
 
+
+
 body {
   font-family: "Lato", sans-serif;
 }
@@ -50,9 +52,12 @@ body {
 }
 
 
+
+
 .column {
   float: right;
   padding: 50px;
+  height: 10000px;
 }
 
 .left {
