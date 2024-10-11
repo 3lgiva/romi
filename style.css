@@ -13,3 +13,15 @@ body {
     display: show;
     padding: 6px 12px;
 }
+
+
+.column {
+    float: left;
+    width: 30%
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
